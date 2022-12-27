@@ -11,8 +11,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-8byRayTRdu)
+- Live Site URL: [Add live site URL here](https://dreamy-platypus-710113.netlify.app/)
 
 ## Author
 
