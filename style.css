@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+}
+
+/* MAIN */
+main {
+  width: 285px;
+  height: 450px;
+  border-radius: 15px;
+  text-align: center;
+  background-color: white;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+/* DIV of h1 and p */
+.text {
+  margin: 15px 10px 10px 10px;
+}
+
+h1 {
+  font-size: 22px;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  margin: 10px;
+  font-weight: 400;
+}
+
+/* QR CODE IMAGE */
+img {
+  margin-top: 10px;
+  width: 260px;
+  border-radius: 10px;
+}
+
+/* FOOTER */
+
+.attribution > p {
+  height: 2.5rem;
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* media to center main div to center for notebook width */
+@media only screen and (max-width: 1550px) {
+  body {
+    max-width: 1440px;
+  }
+}

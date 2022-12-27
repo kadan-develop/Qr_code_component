@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.commandsToSkipShell": [
+    "\"[html]\": {     \"editor.defaultFormatter\": \"vscode.html-language-features\" }, \"[javascript][javascriptreact][typescript]\": {     \"editor.defaultFormatter\": \"vscode.typescript-language-features\" }, \"[json][jsonc]\": { \t\"editor.defaultFormatter\": \"vscode.json-language-features\" }, \"[css][scss][less]\": {     \"editor.defaultFormatter\": \"vscode.css-language-features\" }"
+  ]
+}
